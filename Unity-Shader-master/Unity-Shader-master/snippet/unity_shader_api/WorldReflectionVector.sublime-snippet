@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[WorldReflectionVector ( ${1:})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>WorldReflectionVector</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>float3 worldRefl; INTERNAL_DATA 用此方法</description>
+</snippet>
